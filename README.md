@@ -1,4 +1,4 @@
-<img width="1176" height="546" alt="UI 1" src="https://github.com/user-attachments/assets/f849efe6-0106-4b69-bcdb-d1357538dfc9" /># android-mobile
+# UTS
 
 # Membuat spalash screen 
 <p>
